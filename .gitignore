@@ -1,0 +1,12 @@
+#Folders
+mlops-zoomcamp-main
+venv_name
+
+homework2/mlruns
+homework2/output
+homework2/mlartifacts
+homework2/TAXI_DATA_FOLDER
+
+#Files
+*.parquet
+*.db
